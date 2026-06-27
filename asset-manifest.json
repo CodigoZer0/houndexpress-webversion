@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "./static/css/main.f221d925.css",
+    "main.js": "./static/js/main.11576039.js",
+    "static/media/banner.jpg": "./static/media/banner.54c55b57cd10cef6368f.jpg",
+    "static/media/bannermain.png": "./static/media/bannermain.c229b6367fabe9109e25.png",
+    "static/media/logoAzulBlancoHE.png": "./static/media/logoAzulBlancoHE.dfd0131e9b9d6e929bf2.png",
+    "static/media/camera.png": "./static/media/camera.054af99399a388e8b924.png",
+    "static/media/linkedin.png": "./static/media/linkedin.1cbc9472c84154340d8c.png",
+    "static/media/email.png": "./static/media/email.2374f804dd1da135c885.png",
+    "static/media/facebook.png": "./static/media/facebook.c2d481c59808ee0cfa19.png",
+    "index.html": "./index.html",
+    "main.f221d925.css.map": "./static/css/main.f221d925.css.map",
+    "main.11576039.js.map": "./static/js/main.11576039.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f221d925.css",
+    "static/js/main.11576039.js"
+  ]
+}
